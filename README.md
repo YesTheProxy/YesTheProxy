@@ -10,3 +10,4 @@ im currently coding RamOS with my Ramworks pals
 Click below to see some of the work I do By myself and with @theshmunguss1
 
 ↓↓↓↓↓↓↓
+[![trophy](https://github-profile-trophy.vercel.app/?username=YesTheProxy)](https://github.com/ryo-ma/github-profile-trophy)
